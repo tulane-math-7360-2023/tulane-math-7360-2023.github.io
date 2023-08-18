@@ -47,7 +47,7 @@ Office hours: Friday lab sessions <https://tulane.zoom.us/j/91892993821>.
 
 Grades will be based on the homework (70%) and the course project (30%).
 
-#### Course Project
+#### Course Project timelines
 
 - Form a team of two to work on the project.
 

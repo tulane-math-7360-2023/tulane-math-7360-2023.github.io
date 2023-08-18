@@ -7,8 +7,10 @@ title: Math 7360
 
 ## Syllabus
 
-
-![Data Science Joke](./DS_joke.jpeg)
+<p>
+    <img src="./DS_joke.jpeg" alt>
+    <em> <center>A Data Science Joke (<a href="https://pbs.twimg.com/media/CiL-PW6UUAAy5BY.jpg">original link</a>)</center> </em>
+</p>
 
 ### Course Topics
 

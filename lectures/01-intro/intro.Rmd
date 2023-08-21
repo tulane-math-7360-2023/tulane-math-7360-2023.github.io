@@ -1,0 +1,291 @@
+---
+title: "Course Introduction"
+author: "Dr. Xiang Ji @ Tulane University"
+date: "Aug 21, 2023"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4  
+subtitle: MATH-7360 Data Analysis
+csl: ../apa.csl
+---
+
+## Annoucement
+
+1. Respond to the introduction discussion [self-introduction](https://tulane.instructure.com/courses/2270535/discussion_topics/13515128?module_item_id=32072280).
+
+2. Self-introductions.
+
+## Course logistics
+
+- Course GitHub organization invitation <https://github.com/tulane-math-7360-2023>
+
+  - Go to [GitHub Education](https://education.github.com/) to get your student benefit (you need to **use your tulane.edu** email address).
+  
+  - Once you have got your GitHub id, please tell me through email (xji4@tulane.edu).
+  Your GitHub id will then be invited to the [course GitHub organization](https://github.com/tulane-math-7360-2023).
+  
+  - Project and homework submission via GitHub
+  
+  - Our course has a GitHub page.
+  Please take a look at <https://tulane-math-7360-2023.github.io/> and its source code at
+  <https://github.com/tulane-math-7360-2023/tulane-math-7360-2023.github.io>.
+  You could check all the development history of this website through the [commit history](https://github.com/tulane-math-7360-2023/tulane-math-7360-2023.github.io/commits/main).
+
+- Lab sessions
+  
+  - *Do* need to submit the lab "work" by pushing it to your Git Repo on the course organization.
+  
+  - There will be "solutions" posted (after the following Monday lecture) for future lab sessions (when there are questions).
+
+- Using R is a course objective
+
+  - try to use R as much as possible for lab sessions and homework assignments
+  
+  - free to use any language for course project
+
+
+- Homework assignment starts week 2.  1st assignment due on week 4.  Expected frequency: one per 3 weeks.
+
+- Github page contains the most up-to-date materials.
+
+
+## Course Project
+
+  - Find a classmate to form a team
+
+  - Find a dataset of interest to you.
+
+  - Turn in a brief one-page description by the end of week 3 of Sept. 8th. (points: 3/30)
+
+  - Submit a mid-term report (2 - 4 pages, no more than 4 please) by the end of week 12 of Nov. 10th. (7/30)
+
+  - Present your work to your peers week 15 and 16. (10/30)
+
+  - Submit a final report (4 - 8 pages, no more than 8 please) to <xji4@tulane.edu> via email by December 14.
+
+  - Submit code to your own private GitHub repository on the course GitHub organization by December 14. (Report + Code, 10/30)
+
+  - (Optional, 5 bonus points towards total grade for each individual in team) Make a GitHub page for your project and demo in final presentation.
+
+### Project ideas/Dataset resources
+  - Amazon data <http://jmcauley.ucsd.edu/data/amazon/>, <https://nijianmo.github.io/amazon/index.html>, <https://cseweb.ucsd.edu/~jmcauley/datasets.html>
+
+  - Netflix challenge <https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data>
+
+  - Kaggle <https://www.kaggle.com/>
+
+  - Sports/eSports prediction
+
+  - Reproduce findings of a paper in your field (could be extremely hard).
+
+  - Google “data science projects” to get more ideas
+
+### More potential data source
+([reference](https://sta199-f21-001.netlify.app/project/))
+
+- [R Data Sources for Regression Analysis](https://rfun.library.duke.edu/blog/data-sources-for-regression-analysis/)
+
+- [kaggle](https://www.kaggle.com/datasets)
+
+- [FiveThirtyEight data](https://data.fivethirtyeight.com/)
+
+- [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
+
+Additions:
+
+- [World Health Organization](https://www.who.int/gho/database/en/)
+
+- [The National Bureau of Economic Research](https://data.nber.org/data/)
+
+- [International Monetary Fund](https://data.imf.org/?sk=388DFA60-1D26-4ADE-B505-A05A558D9A42&sId=1479329328660)
+
+- [General Social Survey](http://gss.norc.org/)
+
+- [United Nations Data](http://data.un.org/)
+
+- [United Nations Statistics Division](https://unstats.un.org/home/)
+
+- [U.K. Data](https://data.gov.uk/)
+
+- [U.S. Data](https://www.data.gov/)
+
+- [U.S. Census Data](https://www.census.gov/data.html)
+
+- [European Statistics](https://ec.europa.eu/eurostat/)
+
+- [Statistics Canada](https://www.statcan.gc.ca/eng/start)
+
+- [Pew Research](https://www.pewresearch.org/download-datasets/)
+
+- [UNICEF](https://data.unicef.org/)
+
+- [CDC](https://www.cdc.gov/datastatistics/index.html)
+
+- [World Bank](https://datacatalog.worldbank.org/)
+
+- [Election Studies](https://electionstudies.org//)
+
+  
+### Brief Description components
+
+  - Introduce the dataset (data type, origin, etc).  Explain why you choose the dataset.  List some questions you want to explore with the dataset.
+  
+### Mid-term report components
+
+  - Include the brief description with modifications if needed
+  
+  - Give an abstract on your plan
+    
+    - What analyses you want to perform for answering your questions
+
+  - Current progress and future plan
+
+
+### Final report components
+
+  - Introduce the dataset.  Explain why you choose it.  Explain what questions you want to ask and explore using the dataset.
+  
+  - Analysis.  Explain the statistical methods that you use for analyzing the dataset.  Explain what you have done to generate the results (make your analysis reproducible).
+  
+  - Results.  Illustrate your results.  Use figures and tables to imiprove readability.
+  
+  - Discussions.  This is the place to put in almost whatever you want to share.  Some difficulties you met in the analysis, what you learned from the analysis, some future directions.
+
+
+## Comments from 2020 course evaluations 
+
+From "Additional comments about your experience in this course":
+
+- I learned more from going through the material in the labs than in the actual lectures.
+I think that maybe smaller homework assignments more frequently would have been more effective than three huge assignments.
+
+- I thought the course was well organized.
+The notes were easy to access for later reference which was really helpful.
+I think the only thing that could be improved upon is spending a little less time on learning R and spending more time discussing the theory behind Data Analysis.
+Some of the concepts addressed at the end felt rushed and they were the concepts with which I wanted to spend more time.
+
+- Awesome! Professor Ji is very nice. He answered all my confusions. He always explain things clear enough for us to comprehend.
+
+- Dr. Ji is very knowledgeable and goes out of his way to be available as a resource for students needing help with the course or outside R/research/data questions.
+He made the structure of the course very flexible without sacrificing rigor, which I think everyone really appreciated during this stressful semester.
+I had experience in statistics/R going in, but have improved so much and learned so many new packages and strategies thanks to this course.
+I especially benefitted from the homework assignments, which provided practice with skills that I have been able to immediately apply to my research.
+
+From "Comment on the strongest aspects of this course":
+
+- I liked that this class had a lab component. The labs were helpful in making sure that I was understanding the material.
+
+- I received a lot of help from Professor Xiang, who was always was ready to answer my questions in class or through email.
+
+  - Well, Xiang is my first name...
+  
+- Dr. Ji was by far the best part of the course. He was extremely helpful and prompt with responses to questions. He wanted us to do well in the course.
+
+- Useful in learning R
+
+- This course started from the very basics and covered a lot of information quickly, but was extremely useful and approachable for students coming from different departments with different levels of previous experience.
+I really appreciated that the course was tailored towards providing a brief overview of many relevant topics and developing practical skills, rather than memorizing formulas or taking long comprehensive exams.
+I would highly recommend taking this course with Dr. Ji to anyone who uses R or wants to start learning.
+
+## Comments from 2020 course evaluations 
+
+From "Additional comments about your experience in this course":
+
+- Professor Ji always helps me a lot patiently.
+
+- Was not a huge fan of the format which the material was presented. Works well for teaching r-coding, however more theoretical concepts are difficult to engage with over a pdf. I would have preferred a written discussion when discussing models.
+
+- Would be helpful to have project and assignment information stored somewhere on the website other than the first day's lecture.
+
+- The content taught in this course is very good, and the knowledge covered is very comprehensive. However, if you want to understand the course content more deeply, you have to spend more time out of class.
+
+- This is a good course as an introduction to R. The range of this class is very wide, which is a good thing but still can be a lot to digest in a short frame. I don't feel I have become an expert on a single thing but more gained general ideas about different aspects.
+
+- The project from this course is very interested for me. It helped me train my data analysis skills
+
+- I find it difficult to learn things like programming and data science during a lecture. I much prefer learning by doing. For this reason, I like the lab sessions. I would even go as far to say two lab sessions per week and one lecture per week could work.
+
+From "Please comment on the strongest aspects of this course":
+
+-  I learn a lot in r studio during this course.
+
+- Labs were helpful and engaging.
+
+- Very broad and plenty of study resources are available.
+
+-  If you are more interested in the R programing, then you must enroll in this course.
+
+- The content of the course is rigorous, which has helped me learn so much R. Professor Ji is attentive and understanding.
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+## Giant's shoulders
+
+- Previous lecture notes from Dr. Michelle Lacey (Math Department @ Tulane)
+
+- Course material from Dr. Hua Zhou (Biostatistics Department @ UCLA)
+
+- Various online sources
+
+## Statistics and data science
+
+- Statistics, the science of _data analysis_, is the applied mathematics in the 21st century.
+
+- Data is increasing in [volume, velocity, and variety](http://www.forbes.com/sites/oreillymedia/2012/01/19/volume-velocity-variety-what-you-need-to-know-about-big-data/).
+
+- My favorite definition of a _data scientist_:
+
+> A data scientist is someone who is better at statistics than any software engineer and better at software engineering than any statistician.
+
+## Big data in 1990s
+
+@Huber94HugeData; -@Huber96MassiveData
+
+| Data Size | Bytes          | Storage Mode               |
+|-----------|----------------|----------------------------|
+| tiny      | $10^2$         | piece of paper             |
+| small     | $10^4$         | a few pieces of paper      |
+| medium    | $10^6$ (MB)    | a floppy disk              |
+| large     | $10^8$         | hard disk                  |
+| huge      | $10^9$ (GB)    | hard disk(s)               |
+| massive   | $10^{12}$ (TB) | hard disk(s); RAID storage |
+
+## Big data in 21st centry
+
+Four V's of big data:
+<p align="center">
+  <img src="./4-Vs-of-big-data.jpg" height="450" width="700">
+</p>
+Source: [IBM](http://www.ibmbigdatahub.com/infographic/four-vs-big-data).
+
+## A typical data scientist on [Linkedin](http://linkedin.com)
+
+<p align="center">
+  <img src="./genetech.png" height="450" width="700">
+</p>
+
+<p align="center">
+  <img src="./genetech_zoomed.png" height="450" width="700">
+</p>
+
+## A random [online cartoon](https://cheezburger.com/6619141/19-nerdy-tech-memes-thatll-debug-your-brain) for data scientist
+
+<p align="center">
+  <img src="./data_scientist_cartoon.jpg" height="800" width="700">
+</p>
+
+
+## Course description
+
+- This course introduces some computing skills and software tools for handling data.
+
+- Read [syllabus](https://tulane-math-7360-2023.github.io/syllabus/syllabus.html) and [schedule](https://tulane-math-7360-2023.github.io/schedule/schedule.html) for a tentative list of topics.
+
+<!-- ## References -->
+

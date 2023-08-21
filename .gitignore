@@ -9,3 +9,6 @@ vendor/
 # Mac tmp files
 .DS_Store
 
+# R tmp files
+.Rhistory
+

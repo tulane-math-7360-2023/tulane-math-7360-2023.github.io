@@ -12,9 +12,13 @@ csl: ../apa.csl
 
 ## Announcement
 
-- Introduce yourself on Canvas [Discussion](https://tulane.instructure.com/courses/2238421/discussion_topics/13241432?module_item_id=30871904)
+- Introduce yourself on Canvas [Discussion](https://tulane.instructure.com/courses/2270535/discussion_topics/13515128?module_item_id=32072280)
+
+- Override into the course
 
 - Friday still has Lab session (but short)
+
+- No class next Monday (Labor day)
 
 ## Computer storage
 

@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research and Git"
 author: "Dr. Xiang Ji @ Tulane University"
-date: "Sep 6, 2023"
+date: "Sep 13, 2023"
 output:
   html_document:
     toc: true
@@ -16,20 +16,10 @@ rm(list = ls()) # clean-up workspace
 
 ## Announcement
  
- - Where is your repository?
-  
- - No required submissions for Lab sessions.
+ - We will have lecture this Friday
  
- - 1-page report of course project due this Friday 09/08
- 
- - HW1 due extended to next Friday 09/15
- 
- - Play with Git and GitHub
- 
-    - Read the error message
-    
-    - Google your error message (reliable solution source: [stackoverflow](https://stackoverflow.com/))
-
+   - In person or zoom?
+   
 ## Reproducible Research
 
 ### Definition

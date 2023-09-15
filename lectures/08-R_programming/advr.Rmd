@@ -19,11 +19,9 @@ sessionInfo()
 
 ## Annoucement
 
-- **One-page** project description due this Wednesday
+- HW1 due today.
 
-- HW1 due this Friday.  Extension?
-
-- Questions regarding HW1 problem 3 from Viraj (everyone should thank him)
+- Questions regarding HW1 problem 3 from Viraj (from 2 years ago, everyone should still thank him)
 
   1. For creating the variable u, should we create it as a vector (using the c function) or as a matrix <br>
   _ans_: `u` is a column vector.

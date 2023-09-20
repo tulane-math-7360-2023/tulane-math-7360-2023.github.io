@@ -158,7 +158,8 @@ Tibbles are one of the unifying features of the tidyverse.
         z = x ^ 2 + y
       )
       ```
-    
+
+
     - `tibble()` does less than `data.frame()`:
     
         1. never changes the type of the inputs (e.g. it never converts strings to factors)

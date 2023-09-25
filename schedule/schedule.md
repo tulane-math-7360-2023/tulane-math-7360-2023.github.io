@@ -30,5 +30,6 @@ Topics:
 |**09/04** no class (Labor day)| **09/06** Data structure [[Rmd](../lectures/06-Data_structure/Data_Structure.Rmd)][[HTML](../lectures/06-Data_structure/Data_Structure.html)]  | **09/08** Lab 3 [[Rmd](../lectures/lab-03-Functions/lab_03_Functions.Rmd)][[HTML](../lectures/lab-03-Functions/lab_03_Functions.html)] | 
 | **09/11** Reproducible Research and Git [[Rmd](../lectures/05-Git/Git.Rmd)][[HTML](../lectures/05-Git/Git.html)] | **09/13** Still Reproducible Research and Git [[Rmd](../lectures/05-Git/Git.Rmd)][[HTML](../lectures/05-Git/Git.html)] | **09/15** Advanced R programming [[Rmd](../lectures/08-R_programming/advr.Rmd)][[HTML](../lectures/08-R_programming/advr.html)]  | |
 | **09/18** Tibble [[Rmd](../lectures/09-Tidy/Tidy.Rmd)][[HTML](../lectures/09-Tidy/Tidy.html)]  | **09/20** Tidy data & HW1 review | **09/22** Lab 4 [[Rmd](../lectures/lab-04-Git/lab_04_git.Rmd)][[HTML](../lectures/lab-04-Git/lab_04_git.html)] | [HW2](../HW/HW2/HW2.html)|
+| **09/25** ggplot2 [[Rmd](../lectures/10-ggplot2/ggplot2.Rmd)][[HTML](../lectures/10-ggplot2/ggplot2.html)] | | | |
 |  |  | **10/06** _no class_ (fall break) | |
 | **11/21** _no class_ (Thanksgiving break) | **11/23** _no class_ (Thanksgiving break) | **11/25** _no class_ (Thanksgiving break) | |

@@ -1,7 +1,7 @@
 ---
 title: "Data visualization with ggplot2"
 author: "Dr. Xiang Ji @ Tulane University"
-date: "Sept 20, 2023"
+date: "Sept 25, 2023"
 output:
   html_document:
     toc: true
@@ -18,13 +18,7 @@ sessionInfo()
 
 ## Announcement
 
-- Mid-term evaluation (voluntary, anonymous, ~ 10 min)
-
-- Lab 3 solutions posted
-
-- HW1 deadline extended to this Wednesday _10/06_
-
-- HW2 will be posted on Friday
+- seems none
 
 ## Acknowledgement
 

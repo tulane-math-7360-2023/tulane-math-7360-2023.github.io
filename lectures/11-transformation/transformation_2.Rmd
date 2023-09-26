@@ -1,0 +1,29 @@
+---
+title: "Data transformation"
+author: "Dr. Xiang Ji @ Tulane University"
+date: "Oct 18, 2021"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4  
+subtitle: MATH-7360 Data Analysis
+csl: ../apa.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.align = 'center')
+```
+
+
+## Acknowledgement
+
+Dr. Hua Zhou's [slides](https://ucla-biostat203b-2020winter.github.io/slides/07-dplyr/dplyr.html)
+
+
+```{r}
+rm(list = ls()) # clean-up workspace
+library("tidyverse")
+library("nycflights13")
+```
+
+

@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Longitudinal Data Using brolgar"
 author: "Dr. Xiang Ji @ Tulane University"
-date: "Oct 11, 2021"
+date: "Sept 27, 2023"
 output:
   html_document:
     toc: true
@@ -12,15 +12,7 @@ csl: ../apa.csl
 
 ## Announcement
 
-- HW2 posted, due **Oct 29, 2021**
-
-- HW1 graded by Question 1 and 2
-
-  - HW1 keys posted
-  
-  - You should _grade_ other questions by yourself
-  
-- Lab 04 keys posted
+- seems none
 
 ## Acknowledgement
 

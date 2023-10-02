@@ -830,6 +830,6 @@ Generally not appropriate for use because of loss of observations
     
 ## Cheat sheet  
 
-[RStudio cheat sheet](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf) is extremely helpful.
+[RStudio cheat sheet](https://nyu-cdsc.github.io/learningr/assets/data-transformation.pdf) is extremely helpful.
 
 

@@ -22,6 +22,8 @@ sessionInfo()
 
 - No lab this Friday (Fall break!)
 
+- Internal course evaluation open
+
     ```{r}
     library(nycflights13)
     test.case.1 <- flights %>%

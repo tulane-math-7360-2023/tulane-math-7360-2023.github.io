@@ -582,7 +582,7 @@ same as
 ## Character classes
 
 <p align="center">
-<img src="./regex_characterclass.png" height="150">
+<img src="./regex_characterclass.png" height="600">
 </p>
 
 - A number of built-in convenience classes of characters:

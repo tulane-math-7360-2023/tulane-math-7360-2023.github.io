@@ -32,7 +32,7 @@ Dr. Hua Zhou's [slides](https://ucla-biostat-200c-2020spring.github.io/slides/03
 
 ## O-ring example
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Space_Shuttle_Challenger_%2804-04-1983%29.JPEG/300px-Space_Shuttle_Challenger_%2804-04-1983%29.JPEG)
+![](300px-Space_Shuttle_Challenger_(04-04-1983).jpeg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/296px-Challenger_explosion.jpg)
 

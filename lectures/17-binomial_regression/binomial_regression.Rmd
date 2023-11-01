@@ -24,9 +24,7 @@ library(faraway)
 
 ## Announcement
 
-- HW2 graded
-
-- HW3 posted
+- Will post presentation order on Friday lab
 
 ## Acknowledgement
 

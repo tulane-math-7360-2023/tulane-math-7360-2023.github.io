@@ -182,7 +182,7 @@ $$
 ```{r}
 summary(modp, dispersion = dp)
 ```
-```{r, eval = F}
+```{r, eval = T}
 drop1(modp, scale = dp, test = "F")
 ```
 

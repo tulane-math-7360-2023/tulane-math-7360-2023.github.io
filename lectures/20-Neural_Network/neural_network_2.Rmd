@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks"
 author: "Dr. Xiang Ji @ Tulane University"
-date: "Dec 1, 2021"
+date: "Nov 15, 2023"
 output:
   html_document:
     toc: true
@@ -15,24 +15,6 @@ csl: ../apa.csl
 rm(list = ls()) # clean-up workspace
 knitr::opts_chunk$set(fig.align = 'center', cache = FALSE)
 ```
-
-## Announcement
-
-- Course evaluation (2/19)
-
-- Project mid-report due this week
-
-- HW3 due next week
-
-- Some comments about using code from lecture notes:
-
-  - if it doesn't work for you, please first google the error message
-  
-  - you may want to compare each object from your run to those from the lecture, e.g. check their dimensions
-  
-  - come to the office hour (warning: it's commonly considered "rude" to ask other people debug your own code)
-
-- Remember your homework and report
 
 ## Acknowledgement
 
